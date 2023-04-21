@@ -1,12 +1,12 @@
 # FastMonai semesterprosjekt
 
 ## REPRODUSERE: 
-Path variabal må oppdateres ved ned/inn -lastning av data. Path variabler må og oppdateres for innlastning av modeller. Datasettene kan lastes ned i “Download_Sets.ipynb” (>50GB for alle settene). To viktigste settene for prosjektet er “Task04_Hippocampus” og “Task02_Hearth”.
+Path variabal må oppdateres ved ned/inn -lastning av data. Path variabler må og oppdateres for innlastning av modeller. Datasettene kan lastes ned i “Download_Sets.ipynb” (>50GB for alle settene). To viktigste settene for prosjektet er “Task04_Hippocampus” og “Task02_Hearth”. 
 
 ## Generell info
 Mappestrukturen er delt BaseLines, data og experimental. I BaseLines trenes en modell for hvert datasett I egne notebooks og modellene lagres der. I data ligger alle datasettene. I experimental ligger notebooken med forsøk på transfer learning fra Hipppocampus til Heart.
 
-Notebooksene er generelt veldig like, med noen mindre forskjeller. Se derfor “Task04_Hippocampus.ipynb” og “HippocampusToHeart.ipynb” for forklaring av kode.
+Notebooksene er generelt veldig like, med noen mindre forskjeller. Se derfor “Task04_Hippocampus.ipynb” og “HippocampusToHeart.ipynb” for forklaring/dokumentasjon av kode.
 Maskinlæring/maskinsyn har potensial til å forbedre diagnostiske evner, redusere menneskelige feil og øke effektiviteten i helsevesenet. Ved å trene algoritmer på store mengder medisinsk bildeinformasjon, kan maskinlæring hjelpe leger med å identifisere og klassifisere sykdommer i pasienters bilder på en mer effektiv og potensielt bedre måte enn kun eksperter.
 
 ## Bakgrunn for prosjektet
