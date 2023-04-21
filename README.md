@@ -1,6 +1,6 @@
 # SemesterProject255
 
-```
+
 #FastMonai semesterprosjekt
 
 ##REPRODUSERE: 
@@ -28,4 +28,4 @@ Mitt prosjekt hadde flere utfordringer. Her er de største:
 
 Resultatet av prosjektet var på sitt beste middelmådig. For mye av tiden gikk til å få kode til å fungere, istedentfor å gjøre meningsfulle endringer på data for å legge bedre til rette for at modeller skal kunne fungere på ulike datasett. Det var også planlagt mer enn et forsøk på transfer learning, men utfordringene i kombinasjon med dårlig tidsplanlegging gjorde det ikke mulig. Lærdommen fra prosjektet har derimot vært ok+. Arbeidet med å få ting til å fungere er det og lærdom i.
 
-```
+
